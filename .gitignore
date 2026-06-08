@@ -1,0 +1,21 @@
+node_modules/
+app.config.timestamp_*.js
+.output/
+.vinxi/
+dist/
+.wrangler/
+
+.env
+.env.local
+.env.*.local
+
+# Editor
+.idea
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
